@@ -1,4 +1,4 @@
 [submodule "extern/mpeg-isobase"]
 	path = extern/mpeg-isobase
-	url = git@bitbucket.org:dicomj23/mpeg-isobase.git
-	branch = develop
+	url = git@github.com:DicomJ/mpeg-isobase.git
+	branch = master
